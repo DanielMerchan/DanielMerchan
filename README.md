@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as Software Architect at VASS<br>🌱 I’m currently learning to program homebrew videogames for Sega Saturn using C/C++<br>💬 You can ask me about anything related to the Java ecosystem<br>⚡ On my free time, I love playing online videogames or losing myself in nature
+🔭 I am a Software Architect at VASS<br>🌱 Currently learning to program homebrew videogames for Sega Saturn using C/C++<br>💬 You can ask me about anything related to the Java ecosystem<br>⚡ On my free time, I love playing online videogames or losing myself in nature
 
 
 ## 🌐 Socials:
