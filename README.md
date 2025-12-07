@@ -1,9 +1,13 @@
 🧐 Who am I?
 
 💻 Software Architect at VASS, specialized in designing and implementing large-scale enterprise solutions
+
 🔭🪐 Fascinated by aerospace and space exploration
+
 🎮 Currently developing homebrew videogames for classic Sega and Nintendo hardware — including Master System, NES, and Sega Saturn — using C, C++ and Assembly
+
 💬 Passionate about the Java / Jakarta EE ecosystem, distributed systems, and Camunda-based orchestration architectures
+
 ⚡ In my free time, I enjoy online gaming and exploring the outdoors
 
 🧠 What I Do (Expertise)
